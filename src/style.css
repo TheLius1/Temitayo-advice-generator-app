@@ -81,5 +81,6 @@ body {
   }
   .advice {
     max-width: 380px;
+    cursor: pointer;
   }
 }
