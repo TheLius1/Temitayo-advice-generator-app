@@ -81,6 +81,8 @@ body {
   }
   .advice {
     max-width: 380px;
+  }
+  .dice--btn {
     cursor: pointer;
   }
 }
